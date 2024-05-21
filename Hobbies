@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en">
+
+        <meta charset="UTF-8">
+        <title>Ernest Meres Hobbies</title>
+    </head>
+    <body>
+        <h1>ERNEST MERES</h1>
+        <HR />
+        My hobbies include:
+        <ul>
+            <li>Basketball</li>
+            <li>Football</li>
+            <li>Chess</li>
+            <li>Handball</li>
+            <li>Badminton</li>
+            <li>Table tennis</li>
+        </ul>
+        As you may have guessed I <i>used</i> to be somewhat athletic, as i am good in quite a number of sports and board games. A little above average. The list of my sports related hobbies is a little longer than outlined here.
+    </body>
+</html>
